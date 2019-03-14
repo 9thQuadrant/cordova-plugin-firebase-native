@@ -1,5 +1,7 @@
 # Complete Firebase Native SDK for Cordova
 
+`still in developement`
+
 This plugin implements all of Firebase Native SDK available features for iOS, Android and Web without exclude nothing. Yes, we are talking about using the most popular like realtime database and up to FirebaseUI, AdMob, Invites, etc...
 
 We are built for ambitious applications! We believe in an amazing future of productive development using tools like Cordova, Ionic, Firebase!
